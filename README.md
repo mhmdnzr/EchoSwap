@@ -64,12 +64,6 @@ The project includes the following npm scripts in the `package.json` file:
 
 ## Usage
 
-Provide instructions on how to use your project. Include any additional information or configurations that users may need.
+FOR those seeking decentralized and secure trading platforms, our web-based app stands out as a revolutionary solution. WHO values privacy and autonomy in their financial transactions will appreciate the unparalleled features we offer. THE decentralized nature ensures that users have complete control over their assets, reducing the risk of centralized vulnerabilities.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Replace placeholders like "Your Project Name," "your-username," and "your-project" with your actual project information. Additionally, consider adding more details to the sections based on the specific needs and characteristics of your project.
+THAT is not all; UNLIKE traditional exchanges, our product eliminates the need for intermediaries, providing a direct peer-to-peer trading experience. OUR PRODUCT boasts a robust infrastructure that prioritizes security and transparency, offering users peace of mind and confidence in their transactions.
