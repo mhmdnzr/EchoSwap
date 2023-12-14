@@ -1,0 +1,24 @@
+.title{
+    color: #EAECEF;
+
+    /* echo-mobileHeader */
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 150% */
+    text-transform: capitalize;
+}
+
+.button{
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    padding: 18px 7px;
+    /* echo-mobileTabSwitch */
+    font-family: Outfit,sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 100% */
+    text-transform: capitalize;
+}

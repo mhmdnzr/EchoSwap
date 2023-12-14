@@ -1,0 +1,102 @@
+.button {
+    padding: 8px 20px;
+    color: #FFF;
+    text-align: right;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    text-transform: capitalize;
+    width: auto;
+    height: 36px;
+}
+
+.button:hover {
+    border: 1px solid #1E69FF;
+    background: #0E1727;
+    color: #1E69FF;
+}
+
+.table_header {
+    color: #7E7E7E;
+    text-align: left;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 85.714% */
+    text-transform: capitalize;
+    padding-bottom: 2.563rem;
+}
+
+.avatarIcon svg {
+    width: 100%;
+    height: 65%;
+    margin-top: 10px;
+}
+
+.details {
+    color: #7E7E7E;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 100% */
+    text-transform: capitalize;
+}
+
+.token_name {
+    color: #FFF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    text-transform: capitalize;
+}
+
+.token_slash {
+    color: #707A8A;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    text-transform: capitalize;
+}
+
+.rows > a {
+    color: #EAECEF;
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 114.286% */
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.rows:hover {
+    border: unset;
+    background: #0E1727;
+}
+
+.btn_show_rows_cases {
+    color: #FFF;
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 114.286% */
+    text-transform: capitalize;
+}
+
+.number_in_page {
+    color: #FFF;
+    font-family: Open Sans, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 114.286% */
+}

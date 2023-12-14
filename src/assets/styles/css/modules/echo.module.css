@@ -1,0 +1,307 @@
+.main {
+    background: linear-gradient(180deg, rgba(0, 16, 26, 1) 5%, #0C0E11 10%, #0C0E11 100%) no-repeat #0C0E11;
+}
+
+.title {
+    color: #1E69FF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 133.333% */
+}
+
+.title_2 {
+    color: #EAECEF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 133.333% */
+}
+
+.content {
+    color: rgba(234, 236, 239, 0.80);
+    font-family: ABeeZee,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.box_title {
+    color: rgba(126, 126, 126, 0.80);
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.box_content {
+    color: rgba(234, 236, 239, 0.80);
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 100% */
+}
+
+.box_content > span {
+    color: rgba(234, 236, 239, 0.40);
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 100% */
+}
+.buy_nft_button{
+    color: #1E69FF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+    text-transform: capitalize;
+}
+.button:hover {
+    border: 1px solid #1E69FF;
+    background: #0E1727;
+}
+.stake_nft_title{
+    color: rgba(234, 236, 239, 0.80);
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+}
+.head_stake{
+    color: #7E7E7E;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 85.714% */
+    text-transform: capitalize;
+}
+.content_stake{
+    color: #FFF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    text-transform: capitalize;
+    padding-top: 8px;
+}
+
+.management_button{
+    color: #1E69FF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.echo_nft_content{
+    color: #7E7E7E;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    text-transform: capitalize;
+}
+
+.manage_echonft_main{
+    border-radius: 2px;
+    border: 1px solid #FFF;
+    background: #0C0E11;
+}
+.manage_echonft_title {
+    color: #EAECEF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    text-transform: capitalize;
+}
+.manage_echonft_tab_button_active{
+    color: #FFF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    text-transform: capitalize;
+}
+.manage_echonft_tab_button{
+    color: #7E7E7E;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    text-transform: capitalize;
+}
+.manage_echonft_clearall_button{
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.manage_echonft_selectnft{
+    color: #7E7E7E;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+    text-transform: capitalize;
+}
+.manage_echonft_nft_items:hover {
+    border: 1px solid #1E69FF;
+    background: #0E1727;
+}
+.manage_echonft_nft_dropdown {
+    color: #7E7E7E;
+    font-variant-numeric: slashed-zero;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    text-transform: capitalize;
+}
+
+.manage_echonft_stake_active{
+    color: #FFF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    text-transform: capitalize;
+}
+.manage_echonft_stake_deactive{
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    text-transform: capitalize;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .title {
+        color: #EAECEF;
+        /* echo-mobileHeader */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px; /* 150% */
+        text-transform: capitalize;
+    }
+
+    .title_mobile{
+        color: #1E69FF;
+
+        /* echo-mobileHeader */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px;
+        text-transform: capitalize;
+    }
+
+    .content {
+        color: rgba(234, 236, 239, 0.80);
+
+        /* echo-mobileDescription */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px; /* 160% */
+    }
+    .box_content{
+        color: rgba(234, 236, 239, 0.80);
+        text-align: right;
+
+        /* echo-mobileInfo */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 36px; /* 138.462% */
+    }
+    .box_title{
+        color: #7E7E7E;
+
+        /* echo-mobileTokenNftSecond */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 36px; /* 163.636% */
+        text-transform: capitalize;
+    }
+    .box_content > span {
+        color: #7E7E7E;
+        text-align: right;
+
+        /* echo-mobileInfo */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 36px; /* 138.462% */
+    }
+    .buy_nft_button{
+        color: #1E69FF;
+        text-align: right;
+
+        /* echo-mobileSecondButton */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px; /* 125% */
+        text-transform: capitalize;
+        padding: 0;
+    }
+    .learn_more{
+        color: #1E69FF;
+
+        /* echo-mobileTokenNftSecond */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 36px; /* 163.636% */
+        text-transform: capitalize;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}

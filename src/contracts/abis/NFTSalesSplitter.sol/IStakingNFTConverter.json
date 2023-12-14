@@ -1,0 +1,26 @@
+{
+  "_format": "hh-zksolc-artifact-1",
+  "contractName": "IStakingNFTConverter",
+  "sourceName": "contracts/NFTSalesSplitter.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "claimFees",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "swap",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "factoryDeps": {}
+}

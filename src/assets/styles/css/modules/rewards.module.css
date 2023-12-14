@@ -1,0 +1,92 @@
+.main {
+    background: linear-gradient(180deg, rgba(0, 16, 26, 1) 5%, #0C0E11 10%, #0C0E11 100%) no-repeat #0C0E11;
+}
+
+.title {
+    color: #EAECEF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+    text-transform: capitalize;
+}
+
+.content {
+    color: rgba(234, 236, 239, 0.80);
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+}
+
+.total_claim {
+    background: #0E1727;
+    padding: 12px 20px;
+}
+
+.total_claim_btn {
+    color: #FFF;
+    font-family: Outfit, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px; /* 100% */
+    text-transform: capitalize;
+}
+
+.dropdown_rewards {
+    color: #EAECEF;
+    font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.nft_items:hover {
+    border: 1px solid #1E69FF;
+    background: #0E1727;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .title {
+        color: #EAECEF;
+        /* echo-mobileHeader */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px; /* 150% */
+        text-transform: capitalize;
+    }
+
+    .content {
+        color: rgba(234, 236, 239, 0.80);
+
+        /* echo-mobileDescription */
+        font-family: Arial,sans-serif , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px; /* 160% */
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}

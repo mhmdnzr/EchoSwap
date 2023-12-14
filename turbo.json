@@ -1,0 +1,12 @@
+{
+  "$schema": "./src/config/turbo/schema.json",
+  "pipeline": {
+    "build": {
+      "outputs": [
+        ".next/**",
+        "!.next/cache/**"
+      ]
+    },
+    "lint": {}
+  }
+}
